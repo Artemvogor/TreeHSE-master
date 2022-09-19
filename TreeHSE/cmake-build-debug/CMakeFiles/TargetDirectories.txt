@@ -1,0 +1,9 @@
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/CMakeFiles/TreeHSE.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/CMakeFiles/TreeHSE_test.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/doctest/CMakeFiles/doctest.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/doctest/CMakeFiles/test.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/doctest/CMakeFiles/edit_cache.dir
+C:/Users/matve/CLionProjects/TreeHSE/cmake-build-debug/doctest/CMakeFiles/rebuild_cache.dir
